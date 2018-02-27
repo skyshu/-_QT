@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>euclidean_64X64.ico</file>
+    </qresource>
+</RCC>
